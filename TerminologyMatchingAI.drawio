@@ -46,7 +46,7 @@
         </mxCell>
         <mxCell id="U9XiAi5DZTVXuSxYuTZE-49" value="API &lt;br&gt;calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-34" vertex="1" connectable="0">
           <mxGeometry x="0.5538" y="-2" relative="1" as="geometry">
-            <mxPoint x="-52" y="-2" as="offset" />
+            <mxPoint x="-60" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U9XiAi5DZTVXuSxYuTZE-3" value="&lt;b&gt;Excel&lt;/b&gt; sheets via Python scripts" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
