@@ -1,0 +1,194 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Page-1" id="SCZxRWlNd6-uZOi4cMfh">
+    <mxGraphModel dx="907" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="900" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#808080;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="542" width="190" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#808080;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="92" width="200" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#808080;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="303" y="92" width="220" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#808080;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="36.5" y="92" width="195" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Search &lt;br&gt;and matching&lt;/h1&gt;&lt;p&gt;Supporting &lt;b&gt;semantic&lt;br&gt;and augmented search&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="332" y="102" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Content &lt;br&gt;to match&lt;/h1&gt;&lt;p&gt;Planning to support matching through&amp;nbsp;structured &lt;b&gt;Excel sheets&lt;/b&gt;, &lt;b&gt;OCL&lt;/b&gt; &lt;b&gt;content&lt;/b&gt;,&amp;nbsp;or custom code via &lt;b&gt;API&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="54" y="102" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-1" target="U9XiAi5DZTVXuSxYuTZE-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191" y="292" />
+              <mxPoint x="191" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-1" value="List of content &lt;br&gt;in &lt;b&gt;OCL UI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4836FF;strokeWidth=2;fillColor=#4836FF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="54" y="262" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Source&amp;nbsp;of suggestions&lt;/h1&gt;&lt;p&gt;Initially supported sources are&amp;nbsp;&lt;b&gt;CIEL and MSF&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="629" y="102" width="151" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-3" target="U9XiAi5DZTVXuSxYuTZE-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191" y="372" />
+              <mxPoint x="191" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-49" value="API &lt;br&gt;calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-34" vertex="1" connectable="0">
+          <mxGeometry x="0.5538" y="-2" relative="1" as="geometry">
+            <mxPoint x="-60" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-3" value="&lt;b&gt;Excel&lt;/b&gt; sheets via Python scripts" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="54" y="342" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-5" target="U9XiAi5DZTVXuSxYuTZE-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-56" value="Initial API answers &lt;br&gt;from vectors" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-54" vertex="1" connectable="0">
+          <mxGeometry x="0.1226" y="-1" relative="1" as="geometry">
+            <mxPoint x="34" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-5" value="&lt;b&gt;Vector &lt;/b&gt;databases" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="629" y="482" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-6" target="U9XiAi5DZTVXuSxYuTZE-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-11" value="Fetching data through API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-10" vertex="1" connectable="0">
+          <mxGeometry x="0.1" y="-1" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-6" value="&lt;b&gt;OCL &lt;/b&gt;database" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4836FF;strokeWidth=2;fillColor=#4836FF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="629" y="232" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-9" target="U9XiAi5DZTVXuSxYuTZE-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-13" value="Storage and update process" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-9" value="&lt;b&gt;Embedding &lt;/b&gt;process" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="629" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-16" target="U9XiAi5DZTVXuSxYuTZE-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-48" value="Supporting misspelling, &lt;br&gt;multilingual and context&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-16" value="&lt;b&gt;Search and matching API&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="332" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-22" target="U9XiAi5DZTVXuSxYuTZE-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="622" />
+              <mxPoint x="263" y="731" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-22" target="U9XiAi5DZTVXuSxYuTZE-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="622" />
+              <mxPoint x="263" y="821" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-55" value="API &lt;br&gt;answers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.7389" relative="1" as="geometry">
+            <mxPoint x="-25" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-22" value="&lt;b&gt;Rank &lt;/b&gt;and return matching&amp;nbsp;&lt;b&gt; suggestions&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="332" y="589" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-26" target="U9XiAi5DZTVXuSxYuTZE-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-47" value="Storing made suggestions &lt;br&gt;to reduce computational workload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-26" value="&lt;b&gt;LLM and context &lt;/b&gt;integration" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="332" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="698" y="560" as="sourcePoint" />
+            <mxPoint x="698" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-38" target="U9XiAi5DZTVXuSxYuTZE-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14" y="729" />
+              <mxPoint x="14" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-38" value="Actions in OCL collection via &lt;b&gt;matching UI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4836FF;strokeWidth=2;fillColor=#4836FF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="61" y="700.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Matching &lt;br&gt;actions&lt;/h1&gt;&lt;p&gt;Handling the &lt;b&gt;suggestions&lt;/b&gt; with existing content in OCL or Excel spreadsheets&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="64" y="557.5" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-40" target="U9XiAi5DZTVXuSxYuTZE-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-6" y="522" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="14" y="819" />
+              <mxPoint x="14" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-53" value="Adding matching decisions&lt;br&gt;in&amp;nbsp;cache and glossary" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-52" vertex="1" connectable="0">
+          <mxGeometry x="0.6955" relative="1" as="geometry">
+            <mxPoint x="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-40" value="Writing suggestions&lt;b&gt; in Excel sheets&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="61" y="790.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U9XiAi5DZTVXuSxYuTZE-44" target="U9XiAi5DZTVXuSxYuTZE-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-50" value="API calls &lt;br&gt;to DBs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="U9XiAi5DZTVXuSxYuTZE-46" vertex="1" connectable="0">
+          <mxGeometry x="-0.1059" y="1" relative="1" as="geometry">
+            <mxPoint x="-41" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-44" value="&lt;b&gt;Cache&amp;nbsp;engine &lt;/b&gt;&lt;br&gt;and&lt;b&gt; &lt;/b&gt;organizational&lt;b&gt; glossary&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="332" y="482" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-57" value="&lt;b&gt;Madiro&lt;/b&gt; scope" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#234571;strokeWidth=2;fillColor=#234571;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="710" y="26" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-58" value="&lt;b&gt;OCL&lt;/b&gt; scope" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4836FF;strokeWidth=2;fillColor=#4836FF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="610" y="26" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U9XiAi5DZTVXuSxYuTZE-65" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 100%;&quot;&gt;Terminology Matching Tool&lt;br&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Architecture and Scope Diagram - January 21, 2025&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="37" y="20" width="535.5" height="61" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
